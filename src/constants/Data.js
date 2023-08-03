@@ -1,4 +1,4 @@
-import {boraBora, fernandoNoronha} from '../assets/destinations/index.js'
+import {boraBora, fernandoNoronha, curitiba, havai, tokio, rio} from '../assets/destinations/index.js'
 
 const Data = [
     {
@@ -7,7 +7,7 @@ const Data = [
         destTitle: 'Bora Bora',
         location: 'New Zeeland',
         grade: 'CULTURAL RELAX',
-        fees: "$700",
+        fees: "$1200",
         description: "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
     },
     {
@@ -21,61 +21,37 @@ const Data = [
     },
     {
         id: 3,
-        imgSrc: boraBora,
-        destTitle: 'Bora Bora',
-        location: 'New Zeeland',
+        imgSrc: rio,
+        destTitle: 'Rio de Janeiro',
+        location: 'Brasil',
         grade: 'CULTURAL RELAX',
         fees: "$700",
         description: "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
     },
     {
         id: 4,
-        imgSrc: fernandoNoronha,
-        destTitle: 'Bora Bora',
-        location: 'New Zeeland',
+        imgSrc: curitiba,
+        destTitle: 'Curitiba',
+        location: 'Brasil',
         grade: 'CULTURAL RELAX',
-        fees: "$700",
+        fees: "$1500",
         description: "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
     },
     {
         id: 5,
-        imgSrc: boraBora,
-        destTitle: 'Bora Bora',
-        location: 'New Zeeland',
+        imgSrc: tokio,
+        destTitle: 'Tokio',
+        location: 'Japão',
         grade: 'CULTURAL RELAX',
-        fees: "$700",
+        fees: "$3000",
         description: "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
     },
     {
         id: 6,
-        imgSrc: fernandoNoronha,
-        destTitle: 'Bora Bora',
-        location: 'New Zeeland',
+        imgSrc: havai,
+        destTitle: 'Havai',
+        location: 'Havai',
         grade: 'CULTURAL RELAX',
-        fees: "$700",
-        description: "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
-    },
-    {
-        id: 7,
-        imgSrc: boraBora,
-        destTitle: 'Bora Bora',
-        location: 'New Zeeland',
-        fees: "$700",
-        description: "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
-    },
-    {
-        id: 8,
-        imgSrc: fernandoNoronha,
-        destTitle: 'Bora Bora',
-        location: 'New Zeeland',
-        fees: "$700",
-        description: "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
-    },
-    {
-        id: 9,
-        imgSrc: boraBora,
-        destTitle: 'Bora Bora',
-        location: 'New Zeeland',
         fees: "$700",
         description: "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
     },
